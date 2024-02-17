@@ -437,6 +437,13 @@ body {
   color: #aaa;
   margin-top: 6rem;
   text-align: center;
-  width: 70%;
+  width: 80%;
   margin-right: auto;
   margin-left: auto; }
+  .copyright__link {
+    font-weight: 400;
+    color: #f9f7f6;
+    text-decoration: none;
+    transition: all 0.1s; }
+    .copyright__link:hover {
+      color: #c69963; }
